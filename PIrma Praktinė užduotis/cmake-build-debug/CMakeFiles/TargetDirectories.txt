@@ -1,0 +1,3 @@
+C:/Users/armin/Desktop/VIKO/PIrma Praktinė užduotis/cmake-build-debug/CMakeFiles/VIKO.dir
+C:/Users/armin/Desktop/VIKO/PIrma Praktinė užduotis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/armin/Desktop/VIKO/PIrma Praktinė užduotis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
